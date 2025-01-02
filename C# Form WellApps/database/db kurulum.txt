@@ -1,0 +1,4 @@
+ilk önce db.sql ile veritabanı oluşturulur.
+sonrasında wellappsdb ile gerekli tablolar oluşturulur.
+
+(veritabanının app'e bağlandıldığı kısım video anlatımda gösterilmiştir.)
